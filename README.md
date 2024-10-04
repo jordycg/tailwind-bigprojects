@@ -1,13 +1,12 @@
 # tailwind-bigprojects
 
-This repository contains two projects built with Tailwind CSS as the initial framework. These projects are in development and will be transitioning to vanilla CSS.
+This repository contains two projects built with Tailwind CSS as the initial framework from tutorials on Udemy. These projects are in development and will be transitioning to vanilla CSS. The main goal was to improve my understanding of Tailwind.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Projects](#projects)
 - [Technologies](#technologies)
 - [How to Use](#how-to-use)
-- [Future Plans](#future-plans)
 - [License](#license)
 
 ## Overview
