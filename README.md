@@ -7,7 +7,7 @@ This repository contains two projects built with Tailwind CSS as the initial fra
 - [Projects](#projects)
 - [Technologies](#technologies)
 - [How to Use](#how-to-use)
-- [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 This repository contains two large-scale web development projects initially designed using Tailwind CSS. However, as the project progresses, the styling will be transitioned from Tailwind to vanilla CSS for further customization and learning purposes.
@@ -37,3 +37,7 @@ To view the projects locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/jordycg/tailwind-bigprojects.git
+
+## Disclaimer
+These projects are based on tutorials from Udemy's Tailwind CSS courses and are intended for learning and personal development purposes only. No commercial use is intended.
+
